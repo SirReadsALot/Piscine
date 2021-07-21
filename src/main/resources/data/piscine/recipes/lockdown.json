@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "dxd",
+    "xdx",
+    "dxd"
+  ],
+  "key": {
+    "x": {
+      "item": "minecraft:polished_blackstone"
+    },
+    "d": {
+      "item": "minecraft:gold_block"
+    }
+  },
+  "result": {
+    "item": "piscine:lockdown",
+    "count": 1
+  }
+}
