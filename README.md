@@ -1,8 +1,8 @@
-# Luxoral Prime
+# Piscine
 
-Welcome to the repository of Luxoral Prime!
+Welcome to the repository of Piscine!
 
-a minecraft mod that was previously an io game
+a minecraft mod that adds items and mobs!
 
 ## Developers
 
